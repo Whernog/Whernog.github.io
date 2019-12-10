@@ -13,6 +13,7 @@ paginate: 10
 paginate_path: "page/:num"
 baseurl: ""
 
+excerpt_separator:  '<!-- more -->'
 
 
 defaults:
