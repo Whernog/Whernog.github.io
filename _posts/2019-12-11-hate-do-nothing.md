@@ -1,5 +1,5 @@
 ---
-title: 我又又又又换界面啦
+title: 讨厌做无意义的事
 tags: 想法
 categories: 我的想法
 ---
