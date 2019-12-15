@@ -113,6 +113,26 @@ $ python
 
 ---
 # 更进一步
+想在c++写的函数里面使用输出也可以，定义一个函数
+```c++
+std::vector<std::vector<double>>& change(std::vector<std::vector<double>> &number)
+{
+	number[0][0] = 10;
+	std::cout << "test c++ print in python" << std::endl;
+	return number;
+}
+```
+
+在python中调用
+```bash
+>>> b = [[0, 0], [0, 0]]
+>>> mixdemo.change(b)
+```
+结果
+
+![mixdemo_change][mixdemo_change]
+
+[mixdemo_change]: {{"/mixdemo_change.png" | prepend: site.imgrepo }}
 
 
 
