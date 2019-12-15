@@ -106,7 +106,7 @@ $ python
 >>> mixdemo.add(a)
 ```
 
-![mixdemo.add](static/img/mixdemo_add.png)
+![mixdemo.add](img/mixdemo_add.png)
 
 
 
