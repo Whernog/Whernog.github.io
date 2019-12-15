@@ -166,9 +166,9 @@ int solve(std::vector<int> &list, std::function<int(std::vector<int> &)> f)
 ```
 >>> def add(ls):
 ... 	sum = 0
-...		for number in ls:
-...			sum += number
-...		return sum
+... 	for number in ls:
+... 		sum += number
+... 	return sum
 ...
 >>> add(a)
 6
