@@ -152,7 +152,7 @@ int solve(std::vector<int> &list, std::function<int(std::vector<int> &)> f)
 ```
 这个f就是传入的函数，它返回一个`int`，参数是一个`vector<int>`
 
-来，在`python`中试验
+来，在`python`中试验，先用`c++`的函数来试试
 ```
 >>> mixdemo.solve(a, mixdemo.add)
 ```
@@ -161,7 +161,20 @@ int solve(std::vector<int> &list, std::function<int(std::vector<int> &)> f)
 
 [mixdemo_solve]: {{"/mixdemo_solve.png" | prepend: site.imgrepo }}
 
+再用`python`的函数来试验
 
+```
+>>> def add(ls):
+... 	sum = 0
+...		for number in ls:
+...			sum += number
+...		return sum
+...
+>>> add(a)
+6
+>>> mixdemo.solve(a, add)
+```
 
+![mixdemo_solve1][mixdemo_solve1]
 
-
+[mixdemo_solve1]: {{"/mixdemo_solve1.png" | prepend: site.imgrepo }}
