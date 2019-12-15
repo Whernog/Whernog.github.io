@@ -107,10 +107,12 @@ $ python
 ```
 
 
-![mixdemo][mixdemo]
+![mixdemo_add][mixdemo_add]
+
+[mixdemo_add]: {{"/mixdemo_add.png" | prepend: site.imgrepo }}
 
 
-[mixdemo]: {{"/mixdemo_add.png" | prepend: site.imgrepo }}
+# 更进一步
 
 
 
