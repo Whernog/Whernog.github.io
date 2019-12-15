@@ -36,6 +36,7 @@ python做杂事是一把好手，啥都行，啥都不精，我试着用它写�
 #include <pybind11/pybind11.h> 
 #include <pybind11/stl.h>
 ```
+
 >把库的头文件include了先
 
 ```c++
@@ -55,27 +56,33 @@ int add(std::vector<int> &list) {
 }
 ```
 >先定义一个函数，这是一个累加数组里的所有数的函数，返回最后计算的结果，要使用它，要先
+
 ```c++
 #include <vector>
 ```
+
 >不然没法使用vector
 
 >接下来
+
 ```c++
 PYBIND11_MODULE(mixdemo, m) {
 
 }
 ```
+
 >开始定义这个python的模块，第一个参数必须和工程名字一样，我的叫mixdemo
 
 ```c++
 m.doc() = "decarbon test";
 ```
+
 >用doc()函数来编写这个模块的注释
 
 ```c++
 m.def("add", &add, "A function which adds two numbers");
 ```
+
 >用def()函数来写把刚才写的add加入模块，顺便添加注释
 
 >编译。。。编译成功了的话，会生成mixdemo.pyd,mixdemo.lib等文件
@@ -99,7 +106,8 @@ $ python
 >>> mixdemo.add(a)
 ```
 
-![mixdemo.add](mixdemo_add.png)
+![mixdemo.add](static/img/mixdemo_add.png)
+
 
 
 
