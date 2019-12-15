@@ -106,7 +106,11 @@ $ python
 >>> mixdemo.add(a)
 ```
 
-![mixdemo.add](img/mixdemo_add.png)
+
+![mixdemo][mixdemo]
+
+
+[mixdemo]: {{"/mixdemo_add.png" | prepend: site.imgrepo }}
 
 
 
