@@ -1,6 +1,6 @@
 ---
 title: 看完电影《误杀》之后的想法
-tags: 电影 
+tags: 电影 想法
 categories: 我的想法
 ---
 
