@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Wherenog的BB乐园</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-01-21T01:48:28&#43;08:00</updated>
+    <updated>2022-01-21T02:14:20&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -14,6 +14,40 @@
             </author>
     <rights>live long and prosper</rights>
     <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+        <entry>
+            <title type="text">开始使用hugo写博客</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hexotohugo/" />
+            <id>https://example.com/posts/hexotohugo/</id>
+            <updated>2022-01-21T02:13:53&#43;08:00</updated>
+            <published>2022-01-21T02:04:25&#43;08:00</published>
+            <author>
+                    <name>wherenog</name>
+                    <uri>https://example.com/</uri>
+                    </author>
+            <rights>live long and prosper</rights><summary type="html">引子 我已经好久没写过了，但是我现在有了一台非常好用的电脑，使用Archlinux，这……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;引子&#34;&gt;引子&lt;/h1&gt;
+&lt;p&gt;我已经好久没写过了，但是我现在有了一台非常好用的电脑，使用Archlinux，这台电脑非常适合做程序类的工作&lt;/p&gt;
+&lt;p&gt;于是，我新折腾了一下，新的样子的博客就诞生啦！&lt;/p&gt;
+&lt;p&gt;我现在的心境和2019年新建立这个博客的时候相比，少了光，多了些纠缠不清的东西，像是厌恶，像是麻木，不喜欢，也不是很讨厌&lt;/p&gt;
+&lt;p&gt;和我一样感受的人，也有，这种感觉就像冬天的黑夜，而且不会结束&lt;/p&gt;
+&lt;p&gt;这种感觉的来源是因为疫情吗？&lt;/p&gt;
+&lt;p&gt;一部分是来源于疫情，疫情让世界都变了，我不得不跟着变&lt;/p&gt;
+&lt;p&gt;新的机会现在却未出现&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">MIT6.S061 lab util</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/2021-06-29-xv6-lab-util/" />

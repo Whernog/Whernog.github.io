@@ -19,10 +19,40 @@
         
             <copyright>live long and prosper</copyright>
         
-        <lastBuildDate>Fri, 21 Jan 2022 01:48:28 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:14:20 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>开始使用hugo写博客</title>
+                <link>https://example.com/posts/hexotohugo/</link>
+                <guid isPermaLink="true">https://example.com/posts/hexotohugo/</guid>
+                <pubDate>Fri, 21 Jan 2022 02:04:25 &#43;0800</pubDate>
+                
+                <copyright>live long and prosper</copyright>
+                
+                    <description>&lt;h1 id=&#34;引子&#34;&gt;引子&lt;/h1&gt;
+&lt;p&gt;我已经好久没写过了，但是我现在有了一台非常好用的电脑，使用Archlinux，这台电脑非常适合做程序类的工作&lt;/p&gt;
+&lt;p&gt;于是，我新折腾了一下，新的样子的博客就诞生啦！&lt;/p&gt;
+&lt;p&gt;我现在的心境和2019年新建立这个博客的时候相比，少了光，多了些纠缠不清的东西，像是厌恶，像是麻木，不喜欢，也不是很讨厌&lt;/p&gt;
+&lt;p&gt;和我一样感受的人，也有，这种感觉就像冬天的黑夜，而且不会结束&lt;/p&gt;
+&lt;p&gt;这种感觉的来源是因为疫情吗？&lt;/p&gt;
+&lt;p&gt;一部分是来源于疫情，疫情让世界都变了，我不得不跟着变&lt;/p&gt;
+&lt;p&gt;新的机会现在却未出现&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>MIT6.S061 lab util</title>
