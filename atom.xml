@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Wherenog的BB乐园</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-01-21T02:14:20&#43;08:00</updated>
+    <updated>2022-01-21T14:56:14&#43;08:00</updated>
     <id>https://example.com/</id>
     <link rel="alternate" type="text/html" href="https://example.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
@@ -18,7 +18,7 @@
             <title type="text">开始使用hugo写博客</title>
             <link rel="alternate" type="text/html" href="https://example.com/posts/hexotohugo/" />
             <id>https://example.com/posts/hexotohugo/</id>
-            <updated>2022-01-21T02:13:53&#43;08:00</updated>
+            <updated>2022-01-21T14:49:16&#43;08:00</updated>
             <published>2022-01-21T02:04:25&#43;08:00</published>
             <author>
                     <name>wherenog</name>
@@ -34,6 +34,13 @@
 &lt;p&gt;这种感觉的来源是因为疫情吗？&lt;/p&gt;
 &lt;p&gt;一部分是来源于疫情，疫情让世界都变了，我不得不跟着变&lt;/p&gt;
 &lt;p&gt;新的机会现在却未出现&lt;/p&gt;
+&lt;h1 id=&#34;梦境&#34;&gt;梦境&lt;/h1&gt;
+&lt;p&gt;我梦到了连续杀人事件，人物还都是我现实中认识的人，不断有人死去，不断的惊吓，有些恐怖的氛围，但是我并不害怕，只是觉得有点刺激，想看看接下来剧情的走向，因此不愿醒来&lt;/p&gt;
+&lt;p&gt;现在，我只记得梦醒来之前的最后一段：在一间大厅中，这个大厅像是在一座山庄的城堡的二层，大厅占据了整个二层，可以从窗户看到外面的草地和远处的树林，天色阴阴的，壁炉里的火很旺，一个人睡在大厅靠窗户的沙发上，盖着一张毯子&lt;/p&gt;
+&lt;p&gt;我和另一个人从一层楼梯上来，从入口可以看到整个二楼大厅的全貌，因为已经发生过了死人事件，我和同伴都有些紧张，看到沙发上的睡着的那个人，我的同伴小心翼翼地上前，先探了探他的鼻息，&lt;/p&gt;
+&lt;p&gt;惊道：“没呼吸了！又死了一个！”&lt;/p&gt;
+&lt;p&gt;我惊了一下，谁曾想，睡在沙发上的朋友直接挺身而起，手指着我俩，哈哈大笑，&lt;/p&gt;
+&lt;p&gt;我惊得一跌，坐在了地上，醒了。&lt;/p&gt;
 </content>
             
             
