@@ -10,7 +10,7 @@
         <title>Wherenog的BB乐园</title>
         <link>https://example.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
-        <generator>Hugo 0.92.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.92.1 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -19,10 +19,54 @@
         
             <copyright>live long and prosper</copyright>
         
-        <lastBuildDate>Wed, 26 Jan 2022 16:33:10 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:57:44 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>入局还是不入</title>
+                <link>https://example.com/posts/toboornottobe/</link>
+                <guid isPermaLink="true">https://example.com/posts/toboornottobe/</guid>
+                <pubDate>Thu, 10 Feb 2022 00:07:45 &#43;0800</pubDate>
+                
+                <copyright>live long and prosper</copyright>
+                
+                    <description>&lt;h1 id=&#34;入局&#34;&gt;入局&lt;/h1&gt;
+&lt;p&gt;社会关系网，终于要在一个即将成人的我身上展开，毕业，工作，买房，结婚，向所有亲戚借钱，安家落户。&lt;/p&gt;
+&lt;p&gt;所有以前的熟悉的亲人，不熟悉的亲戚，以后都要有明确的利益关系绑定在我身上了，原本孑然一身的我，一人吃饱，啥事不管的我，不能继续我浑浑噩噩的生活，要变成一个社会人了。&lt;/p&gt;
+&lt;p&gt;以前我从没在意过的社会关系就这么展开了。&lt;/p&gt;
+&lt;p&gt;不得不说，提出六个钱包的人，真TM的狠毒。&lt;/p&gt;
+&lt;p&gt;两个相爱的年轻人，到了结婚的年龄，想有一个共同居住的地方，有错吗？
+双方的父母，希望两个年轻人，结婚了，买个房子住，有错吗？
+可这该死的房价，不止需要两个年轻人，以及双方的父母的钱包了，贪婪的嘴，连亲戚们都不放过。
+双方的亲戚，同样有孩子，同样希望互相帮助，所以愿意借钱给我们，他们都是好人啊！&lt;/p&gt;
+&lt;p&gt;买房结婚，是惯性，改不了。我并不担心这样的买房方式，我担心的是：&lt;/p&gt;
+&lt;p&gt;我买房结婚了，房价开始下跌了，所有亲戚们，双方父母，我们自己的积蓄，努力都打水漂。
+除此之外，就是现在这离谱的离婚率和结婚率，想找一个同心协力的对象比较难。&lt;/p&gt;
+&lt;p&gt;害，终究，我还是要背负起这些啊。&lt;/p&gt;
+&lt;p&gt;嘉庆皇帝临终不行了，要跌倒在地，问他的儿子裕王，“背得动吗？”不光是儿子背老子背得动背不动，而且是大明王朝的担子背不背的动。
+封建王朝的皇帝有天下要继承，我家有啥子要继承的嘛，至于要人这么压力大嘛，混蛋。&lt;/p&gt;
+&lt;h2 id=&#34;反思&#34;&gt;反思&lt;/h2&gt;
+&lt;p&gt;其实，我需要一个希望，我这个普通人，每一个普通人都需要有一个看得见的盼头。&lt;/p&gt;
+&lt;p&gt;一旦这个希望实现了，反而会失去做事情的动力，老一点的话，那就是活着的动力就没有了。&lt;/p&gt;
+&lt;p&gt;最开心的就是实现希望的前后一段时间，但是很短呐。&lt;/p&gt;
+&lt;p&gt;大学时期浑浑噩噩，迷茫，不知道为何而努力。&lt;/p&gt;
+&lt;p&gt;如果这么些年，自己找不到的话，社会还是提供了一个普通人努力的方向或者叫人生的希望的：买房结婚生孩子养孩子。&lt;/p&gt;
+&lt;p&gt;只不过，把这个成本抬高到需要普通人一辈子努力的代价，如果一个普通人的精力都在这里面了，那他还能做什么危害别人的事情呢？还不是为了亲人、为了小家庭给别人当牛做马。这样就把一个人控制住了。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>开始使用hugo写博客</title>
@@ -52,6 +96,7 @@
 &lt;p&gt;那我还想着找她，为什么？神经病。&lt;/p&gt;
 &lt;p&gt;我遇到的困难只有我自己能解决，我只是最近没什么进展，比较焦虑。但是我渐渐看到了解决的曙光，我知道自己一定能解决，只是还需要焦虑一段时间。&lt;/p&gt;
 &lt;p&gt;我性格中的焦躁、不安、冲动的部分，都已经快被这次的困难磨没了，让我时常感觉青春热血不再，留下的只有平缓，甚至有点麻木。我不太希望这样，我希望自己能再次因为某个东西兴奋起来，但是每次快要出现这样的冲动时，我的理智和经验都放大了他们的声音：你有更好的选择。&lt;/p&gt;
+&lt;p&gt;可是我确实很烦躁。&lt;/p&gt;
 </description>
                 
                 
